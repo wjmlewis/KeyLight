@@ -1,5 +1,5 @@
 # KeyLight
-### A very simple keychain light that you can toggle!
+### A simple keychain light that you can toggle!
 
 ## What components are used?
 I'm using...
