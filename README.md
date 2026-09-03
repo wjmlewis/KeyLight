@@ -28,4 +28,11 @@ I'm using...
 <img width="676" height="566" alt="ModelFRONT" src="Images/ModelFRONT.png" />
 <img width="750" height="523" alt="ModelBACK" src="Images/ModelBACK.png" />
 
+### It Works!
+
+(the GIF may take a sec to load)
+<img width="1920" height="1080" alt="Circuit" src="Images/Circuit.gif" />
+
+
+
 ## This project was made by me, William (@william on slack) for Hackclub Solder!
