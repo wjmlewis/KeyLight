@@ -21,7 +21,7 @@ I'm using...
 
 ### The PCB Design
 
-<img width="702" height="668" alt="PCB Design" src="Images/PCB Design.png" />
+<img width="525" height="587" alt="PCB Design" src="Images/PCB Design.png" />
 
 ### The 3D Model (front and back)
 
